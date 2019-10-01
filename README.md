@@ -33,3 +33,9 @@ Undo all the changes on the line - `U`
 Substitute all occurences of a phrase with another in the file - `%s/<old>/<new>/g`
 
 If you wish for confirmation every time a phrase is being modified - `%s/<old>/<new>/gc`
+
+To view file path, cursor position and file status - `Ctrl-G`
+
+To search for a phrase forward - `/<phrase>`
+
+To search for a phrase backward - `?<phrase>`
